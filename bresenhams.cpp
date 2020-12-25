@@ -14,7 +14,7 @@ int main()
     absDx=abs(dx);
     absDy=abs(dy);
     initwindow(800,600);
-    if(x0<x1)
+    if(x0<x1) //variable declaration
             xinc=1;
           else
             xinc=-1;
